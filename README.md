@@ -1,4 +1,4 @@
 # Página de Ajuda
-Help page for Gamieeefication App
+"Help" page for Gamieeefication App
 
 Em desenvolvimento
